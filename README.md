@@ -1,2 +1,2 @@
-# CS224n
-2017 spring
+# Deep Learning Studies
+* Candidate-Sampling
