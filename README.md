@@ -8,4 +8,5 @@
   * https://arxiv.org/abs/1607.01759
 * Variational Auto Encoder
   * https://github.com/jaywalnut310/Maths-for-ML/blob/master/VAE.pdf
+  * https://jaan.io/what-is-variational-autoencoder-vae-tutorial
   * https://github.com/blei-lab/edward/blob/master/examples/vae.py
