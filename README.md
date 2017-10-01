@@ -6,3 +6,6 @@
   * http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
 * Fast-Text
   * https://arxiv.org/abs/1607.01759
+* Variational Auto Encoder
+  * https://github.com/jaywalnut310/Maths-for-ML/blob/master/VAE.pdf
+  * https://github.com/blei-lab/edward/blob/master/examples/vae.py
