@@ -10,3 +10,7 @@
   * https://github.com/jaywalnut310/Maths-for-ML/blob/master/VAE.pdf
   * https://jaan.io/what-is-variational-autoencoder-vae-tutorial
   * https://github.com/blei-lab/edward/blob/master/examples/vae.py
+* Normalizing Flow (Inverse Autoregressive Flow)
+  * https://arxiv.org/abs/1505.05770
+  * https://arxiv.org/abs/1606.04934
+  * https://arxiv.org/abs/1312.6114
